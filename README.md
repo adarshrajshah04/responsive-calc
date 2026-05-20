@@ -1,19 +1,19 @@
-Responsive Calc
+# Responsive Calc
 
-A modern and responsive calculator built using HTML, CSS, and JavaScript.
+A simple and responsive calculator built using HTML, CSS, and JavaScript.
 
-Features
-Basic arithmetic operations
-Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/)
-Responsive design
-Mobile and tablet support
-Modern calculator UI
-Real-time display
-Clear button functionality
-Technologies Used
-HTML5
-CSS3
-JavaScript
+## Features
+
+- Basic calculator operations
+- Responsive design
+- Modern UI
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Author
+
+Adarsh
